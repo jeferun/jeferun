@@ -1,6 +1,6 @@
 - 👋 Hi, I’m jefer urbano
 - 👀 I’m interested in learning from new technologies
-- 🌱 I am currently acquiring new knowledge in mobile application development
+- 🌱 I am currently purchasing new knowledge in mobile application development and web pages.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
